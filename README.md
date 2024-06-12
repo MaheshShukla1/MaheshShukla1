@@ -2,13 +2,14 @@
 Hi there, I'm Mahesh Shukla!👋
 <br><br>I'm a passionate cybersecurity enthusiast and aspiring entrepreneur with a strong focus on SOC roles and blue teaming. I'm currently diving deep into various cybersecurity domains, honing my skills, and working towards impactful goals.<br><br>🖥️ Currently Working On: A comprehensive case study on cybersecurity incidents and their mitigation.<br>🤝 Looking to Collaborate On: Innovative projects that push the boundaries of technology and security.<br>🔐 Looking to Help With: Blue Teaming strategies, SOC operations, and cybersecurity best practices.<br>📚 Currently Learning: Advanced concepts in SOC, blue teaming, and preparing for the CompTIA Security+ certification.<br><br>Ask Me About<br>💻 Programming: Python, Bash scripting<br>🌐 Networking: TCP/IP, OSI Model, network security fundamentals<br>🐧 Linux: Command line mastery, various Linux distributions<br>🛡️ Blue Teaming: Defensive cybersecurity strategies, incident response<br><br>Fun Fact<br>"When you learn, you earn." 🚀<br><br>Skills and Expertise<br>🔒 Cybersecurity Tools: YARA, Snort, John the Ripper, Wireshark, Scapy, Docker<br>💻 Programming: Python (requests, paramiko, Beautiful Soup, nmap, pyShark), Bash scripting<br>🌐 Networking: Deep understanding of TCP/IP, OSI model, network security protocols<br>🐧 Linux: Extensive experience with Linux command line, scripting, and administration<br><br>Current Projects<br>🎥 SecLab YouTube Channel: Creating engaging and educational content on networking and cybersecurity, explained in Hindi.<br>🛠️ TryHackMe: Actively participating in CTF challenges to sharpen my practical skills and knowledge. Check out my profile [here](https://tryhackme.com/p/JailBreaker).<br>🔐 Let'sDefend: Enhancing my SOC skills through practical exercises and real-world scenarios. View my achievements [here](https://app.letsdefend.io/user/jailbreaker).<br><br>Goals<br>Short Term: Achieve a remote SOC role and complete CompTIA Security+ certification.<br>Long Term: Launch a groundbreaking IoT company and a comprehensive practical learning platform that revolutionizes education in engineering and cybersecurity.<br><br>🚀 Achieved Typing Speed: 150+ words per minute (wpm)<br><br>
 
-[![](https://visitcount.itsvg.in/api?id=MaheshShukla1&label=Active&pretty=true)](https://visitcount.itsvg.in)
-
-## 📂 Repositories <br><br> 
+## 📂 Repositories <br>
 * ## [Networking Notes](https://github.com/MaheshShukla1/Networking_Notes_2024)
 * ## [Linux_basics_to_advanced](https://github.com/MaheshShukla1/Linux-Basics-To-Advanced)
 * ## [SOC_2024](https://github.com/MaheshShukla1/SOC_NOTES_2024)
 * ## [CompTia Sec+_701](https://github.com/MaheshShukla1/CompTia-Security-701)
+
+[![](https://visitcount.itsvg.in/api?id=MaheshShukla1&label=Active&pretty=true)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EsRMAgE5SZ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MaheshShukla01) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Mahesh_Shukla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MaheshShukla011) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCa_oZ3SJu1z24ZRkOpLbc7Q) 
 
