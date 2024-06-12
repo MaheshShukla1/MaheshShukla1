@@ -5,6 +5,8 @@ Hi there, I'm Mahesh Shukla!👋
 ## 📂 Repositories <br><br> 
 * ## [Networking Notes](https://github.com/MaheshShukla1/Networking_Notes_2024)
 * ## [Linux_basics_to_advanced](https://github.com/MaheshShukla1/Linux-Basics-To-Advanced)
+* ## [SOC_2024](https://github.com/MaheshShukla1/SOC_NOTES_2024)
+* ## [CompTia Sec+_701](https://github.com/MaheshShukla1/CompTia-Security-701)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EsRMAgE5SZ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MaheshShukla01) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Mahesh_Shukla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MaheshShukla011) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCa_oZ3SJu1z24ZRkOpLbc7Q) 
 
