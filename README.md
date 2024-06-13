@@ -9,7 +9,7 @@
 * ## [Linux_basics_to_advanced](https://github.com/MaheshShukla1/Linux-Basics-To-Advanced)
 * ## [SOC_Analyst Notes](https://github.com/MaheshShukla1/SOC_NOTES_2024)
 * ## [Python-SOC-Modules](https://github.com/MaheshShukla1/Python-SOC-Modules-Security-Monitoring-Incident-Response)
-* ## [CompTia Sec+_701](https://github.com/MaheshShukla1/CompTia-Security-701)
+* ## [CompTIA SY0-701 Security+ Study Notes](https://github.com/MaheshShukla1/CompTIA-SY0-701-Security-Study-Notes)
 * ## [Snort-IDS-Configuration-Rules-and-Examples](https://github.com/MaheshShukla1/Snort-IDS-Configuration-Rules-and-Examples)
 [![](https://visitcount.itsvg.in/api?id=MaheshShukla1&label=Active&pretty=true)](https://visitcount.itsvg.in)
 
