@@ -1,8 +1,53 @@
 # 💫 About Me
 [<img src="https://tryhackme-badges.s3.amazonaws.com/JailBreaker.png?timestamp=20240613" alt="TryHackMe">](https://tryhackme.com/p/JailBreaker)
 
-𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗠𝗮𝗵𝗲𝘀𝗵 𝗦𝗵𝘂𝗸𝗹𝗮! 👋<br><br>I'm a passionate cybersecurity enthusiast and aspiring entrepreneur with a strong focus on SOC roles and blue teaming. I'm currently diving deep into various cybersecurity domains, honing my skills, and working towards impactful goals.<br><br>🖥️ Currently Working On<br>📊 A comprehensive case study on cybersecurity incidents and their mitigation.<br><br>🤝 Looking to Collaborate On<br>💡 Innovative projects that push the boundaries of technology and security.<br><br>🔐 Looking to Help With<br>🛡️ Blue Teaming strategies, SOC operations, and cybersecurity best practices.<br><br>📚 Currently Learning<br>📘 Advanced concepts in SOC, blue teaming, and preparing for the CompTIA Security+ certification.<br><br>🧑‍💻 Ask Me About<br>💻 Programming: Python, Bash scripting<br>🌐 Networking: TCP/IP, OSI Model, network security fundamentals<br>🐧 Linux: Command line mastery, various Linux distributions<br>🛡️ Blue Teaming: Defensive cybersecurity strategies, incident response<br><br>🛠️ Skills and Expertise<br>🔒 Cybersecurity Tools: YARA, Snort, John the Ripper, Wireshark, Scapy, Docker<br>💻 Programming: Python (requests, paramiko, Beautiful Soup, nmap, pyShark), Bash scripting<br>🌐 Networking: Deep understanding of TCP/IP, OSI model, network security protocols<br>🐧 Linux: Extensive experience with Linux command line, scripting, and administration<br><br>🎯 Goals<br>Short Term: Achieve a remote SOC role and complete CompTIA Security+ certification.<br>Long Term: Launch a groundbreaking IoT company and a comprehensive practical learning platform that revolutionizes education in engineering and cybersecurity.<br><br>📈 Achievements<br>🏆 Typing Speed: Achieved typing speed of 150+ words per minute (wpm)<br><br>🥇 Certifications:<br>CompTIA Security+ (Expected by September 2024)<br>Networking Fundamentals (Completed)<br><br>📹 Current Projects<br>🎥 SecLab YouTube Channel: Creating engaging and educational content on networking and cybersecurity, explained in Hindi.<br>🛡️ TryHackMe: Actively participating in CTF challenges to sharpen my practical skills and knowledge. Check out my profile here.<br>🔍 Let'sDefend: Enhancing my SOC skills through practical exercises and real-world scenarios. View my achievements here.<br><br>🌟 Fun Fact<br>"When you learn, you earn." 🚀
+# Hi there, I'm Mahesh Shukla! 👋
 
+## About Me
+I'm a passionate **cybersecurity enthusiast** and aspiring entrepreneur with a strong focus on **SOC roles** and **blue teaming**. I'm currently diving deep into various cybersecurity domains, honing my skills, and working towards impactful goals.
+
+## 🖥️ Currently Working On
+- 📊 A comprehensive case study on cybersecurity incidents and their mitigation.
+
+## 🤝 Looking to Collaborate On
+- 💡 Innovative projects that push the boundaries of technology and security.
+
+## 🔐 Looking to Help With
+- 🛡️ Blue Teaming strategies, SOC operations, and cybersecurity best practices.
+
+## 📚 Currently Learning
+- 📘 Advanced concepts in SOC, blue teaming, and preparing for the **CompTIA Security+** certification.
+
+## 🧑‍💻 Ask Me About
+- 💻 **Programming**: Python, Bash scripting
+- 🌐 **Networking**: TCP/IP, OSI Model, network security fundamentals
+- 🐧 **Linux**: Command line mastery, various Linux distributions
+- 🛡️ **Blue Teaming**: Defensive cybersecurity strategies, incident response
+
+## 🛠️ Skills and Expertise
+- 🔒 **Cybersecurity Tools**: YARA, Snort, John the Ripper, Wireshark, Scapy, Docker
+- 💻 **Programming**: Python (requests, paramiko, Beautiful Soup, nmap, pyShark), Bash scripting
+- 🌐 **Networking**: Deep understanding of TCP/IP, OSI model, network security protocols
+- 🐧 **Linux**: Extensive experience with Linux command line, scripting, and administration
+
+## 🎯 Goals
+- **Short Term**: Achieve a remote SOC role and complete **CompTIA Security+** certification.
+- **Long Term**: Launch a groundbreaking **IoT company** and a comprehensive **practical learning platform** that revolutionizes education in engineering and cybersecurity.
+
+## 📈 Achievements
+- 🏆 **Typing Speed**: Achieved typing speed of 150+ words per minute (wpm)
+
+## 🥇 Certifications:
+- CompTIA Security+ (Expected by September 2024)
+- Networking Fundamentals (Completed)
+
+## 📹 Current Projects
+- 🎥 **SecLab YouTube Channel**: Creating engaging and educational content on networking and cybersecurity, explained in Hindi.
+- 🛡️ **TryHackMe**: Actively participating in CTF challenges to sharpen my practical skills and knowledge. Check out my profile [here](https://tryhackme.com).
+- 🔍 **Let'sDefend**: Enhancing my SOC skills through practical exercises and real-world scenarios. View my achievements [here](https://letsdefend.io).
+
+## 🌟 Fun Fact
+"When you learn, you earn." 🚀
 
 ## 📂 Repositories <br>
 * ## [Networking Fundamentals](https://github.com/MaheshShukla1/Networking_Notes_2024)
@@ -18,6 +63,7 @@
 
 # 💻 Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=plastic&logo=yaml&logoColor=151515) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MaheshShukla1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaheshShukla1&theme=dark&hide_border=false)<br/>
