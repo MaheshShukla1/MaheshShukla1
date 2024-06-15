@@ -1,6 +1,6 @@
 # 💫 About Me
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/JailBreaker.png)](https://tryhackme.com/p/JailBreaker)
+[<img src="https://tryhackme-badges.s3.amazonaws.com/JailBreaker.png" alt="TryHackMe">](https://tryhackme.com/p/JailBreaker)
 
 # Hi there, I'm Mahesh Shukla! 👋
 
