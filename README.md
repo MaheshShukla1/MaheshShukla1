@@ -50,6 +50,7 @@ I'm a passionate **cybersecurity enthusiast** and aspiring entrepreneur with a s
 "When you learn, you earn." 🚀
 
 ## 📂 Repositories <br>
+* ## [Healthcare-Ransomware-Case-Study](https://github.com/MaheshShukla1/Healthcare-Ransomware-Case-Study)
 * ## [Networking Fundamentals](https://github.com/MaheshShukla1/Networking_Notes_2024)
 * ## [Linux_basics_to_advanced](https://github.com/MaheshShukla1/Linux-Basics-To-Advanced)
 * ## [SOC_Analyst Notes](https://github.com/MaheshShukla1/SOC_NOTES_2024)
