@@ -8,7 +8,7 @@
 I'm a passionate **cybersecurity enthusiast** and aspiring entrepreneur with a strong focus on **SOC roles** and **blue teaming**. I'm currently diving deep into various cybersecurity domains, honing my skills, and working towards impactful goals.
 
 ## 🖥️ Currently Working On
-- 📊 A comprehensive case study on cybersecurity incidents and their mitigation.
+- 📊 Intrusion Detection System 
 
 ## 🤝 Looking to Collaborate On
 - 💡 Innovative projects that push the boundaries of technology and security.
