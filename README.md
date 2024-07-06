@@ -2,49 +2,59 @@
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/JailBreaker.png)](https://tryhackme.com/p/JailBreaker)
 
 # Hi there, I'm Mahesh Shukla! 👋
-
-## About Me
-I'm a passionate **cybersecurity enthusiast** and aspiring entrepreneur with a strong focus on **SOC roles** and **blue teaming**. I'm currently diving deep into various cybersecurity domains, honing my skills, and working towards impactful goals.
+I'm a passionate **cloud security enthusiast** and aspiring entrepreneur with a strong focus on **cloud security**. I'm currently diving deep into various cybersecurity domains, honing my skills, and working towards impactful goals.
 
 ## 🖥️ Currently Working On
-- 📊 Intrusion Detection System 
+- 📊 **Intrusion Detection System**
+- ☁️ **Cloud Security Projects**
+  - **Secure Cloud Infrastructure**: Designing and implementing secure cloud architecture on AWS and Azure.
+  - **IAM Best Practices**: Implementing robust Identity and Access Management (IAM) policies.
+  - **Cloud Compliance**: Ensuring cloud environments meet regulatory compliance standards.
+  - **Container Security**: Securing Docker and Kubernetes environments.
 
 ## 🤝 Looking to Collaborate On
 - 💡 Innovative projects that push the boundaries of technology and security.
+- ☁️ Cloud Security solutions and strategies.
 
 ## 🔐 Looking to Help With
-- 🛡️ Blue Teaming strategies, SOC operations, and cybersecurity best practices.
+- ☁️ Implementing and securing cloud environments.
+- 🛡️ Cloud Security best practices and strategies.
 
 ## 📚 Currently Learning
-- 📘 Advanced concepts in SOC, blue teaming, and preparing for the **CompTIA Security+** certification.
+- 📘 Advanced concepts in cloud security and preparing for the **AWS Certified Security - Specialty** certification.
+- 📘 Relevant Python modules for cloud security, Linux administration, Docker, and Kubernetes.
 
 ## 🧑‍💻 Ask Me About
-- 💻 **Programming**: Python, Bash scripting
-- 🌐 **Networking**: TCP/IP, OSI Model, network security fundamentals
-- 🐧 **Linux**: Command line mastery, various Linux distributions
-- 🛡️ **Blue Teaming**: Defensive cybersecurity strategies, incident response
+- 💻 **Programming**: Python, Bash scripting.
+- 🌐 **Networking**: TCP/IP, OSI Model, network security fundamentals.
+- 🐧 **Linux**: Command line mastery, various Linux distributions.
+- ☁️ **Cloud Security**: Cloud infrastructure, IAM, securing cloud workloads.
+- 🐋 **Containerization**: Docker and Kubernetes security.
 
 ## 🛠️ Skills and Expertise
-- 🔒 **Cybersecurity Tools**: YARA, Snort, John the Ripper, Wireshark, Scapy, Docker
-- 💻 **Programming**: Python (requests, paramiko, Beautiful Soup, nmap, pyShark), Bash scripting
-- 🌐 **Networking**: Deep understanding of TCP/IP, OSI model, network security protocols
-- 🐧 **Linux**: Extensive experience with Linux command line, scripting, and administration
+- 🔒 **Cybersecurity Tools**: YARA, Snort, John the Ripper, Wireshark, Scapy, Docker.
+- 💻 **Programming**: Python (requests, paramiko, Beautiful Soup, nmap, pyShark), Bash scripting.
+- 🌐 **Networking**: Deep understanding of TCP/IP, OSI model, network security protocols.
+- 🐧 **Linux**: Extensive experience with Linux command line, scripting, and administration.
+- ☁️ **Cloud Security**: Cloud security architecture, cloud compliance, IAM, securing cloud services.
+- ☸️ **Container Security**: Securing Docker and Kubernetes environments.
 
 ## 🎯 Goals
-- **Short Term**: Achieve a remote SOC role and complete **CompTIA Security+** certification.
+- **Short Term**: Achieve the **AWS Certified Security - Specialty** certification.
 - **Long Term**: Launch a groundbreaking **IoT company** and a comprehensive **practical learning platform** that revolutionizes education in engineering and cybersecurity.
 
 ## 📈 Achievements
-- 🏆 **Typing Speed**: Achieved typing speed of 150+ words per minute (wpm)
+- 🏆 **Typing Speed**: Achieved typing speed of 150+ words per minute (wpm).
 
-## 🥇 Certifications:
-- CompTIA Security+ (Expected by September 2024)
-- Networking Fundamentals (Completed)
+## 🥇 Certifications
+- **AWS Certified Security - Specialty** (Expected by December 2024).
+- **Networking Fundamentals** (Completed).
 
 ## 📹 Current Projects
 - 🎥 **SecLab YouTube Channel**: Creating engaging and educational content on networking and cybersecurity, explained in Hindi.
-- 🛡️ **TryHackMe**: Actively participating in CTF challenges to sharpen my practical skills and knowledge. Check out my profile [here](https://tryhackme.com).
-- 🔍 **Let'sDefend**: Enhancing my SOC skills through practical exercises and real-world scenarios. View my achievements [here](https://letsdefend.io).
+- ☁️ **TryHackMe**: Actively participating in CTF challenges to sharpen my practical skills and knowledge. Check out my profile [here](https://tryhackme.com).
+- ☁️ **Let'sDefend**: Enhancing my cloud security skills through practical exercises and real-world scenarios. View my achievements [here](https://letsdefend.io).
+- ☁️ **Cloud Security**: Working on cloud security projects to fortify cloud environments and ensure compliance.
 
 ## 🌟 Fun Fact
 "When you learn, you earn." 🚀
