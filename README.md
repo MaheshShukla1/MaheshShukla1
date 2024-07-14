@@ -45,11 +45,9 @@ I'm a passionate **cloud security enthusiast** and aspiring entrepreneur with a 
 
 ## 📈 Achievements
 - 🏆 **Typing Speed**: Achieved typing speed of 150+ words per minute (wpm).
-
+- **Networking Fundamentals** (Completed).
 ## 🥇 Certifications
 - **AWS Certified Security - Specialty** (Expected by December 2024).
-- **Networking Fundamentals** (Completed).
-
 ## 📹 Current Projects
 - 🎥 **SecLab YouTube Channel**: Creating engaging and educational content on networking and cybersecurity, explained in Hindi.
 - ☁️ **TryHackMe**: Actively participating in CTF challenges to sharpen my practical skills and knowledge. Check out my profile [here](https://tryhackme.com).
