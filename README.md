@@ -5,7 +5,6 @@
 I'm a passionate **cloud security enthusiast** and aspiring entrepreneur with a strong focus on **cloud security**. I'm currently diving deep into various cybersecurity domains, honing my skills, and working towards impactful goals.
 
 ## 🖥️ Currently Working On
-- 📊 **Intrusion Detection System**
 - ☁️ **Cloud Security Projects**
   - **Secure Cloud Infrastructure**: Designing and implementing secure cloud architecture on AWS and Azure.
   - **IAM Best Practices**: Implementing robust Identity and Access Management (IAM) policies.
