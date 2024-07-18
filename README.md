@@ -50,7 +50,6 @@ I'm a passionate **cloud security enthusiast** and aspiring entrepreneur with a 
 ## 📹 Current Projects
 - 🎥 **SecLab YouTube Channel**: Creating engaging and educational content on networking and cybersecurity, explained in Hindi.
 - ☁️ **TryHackMe**: Actively participating in CTF challenges to sharpen my practical skills and knowledge. Check out my profile [here](https://tryhackme.com).
-- ☁️ **Let'sDefend**: Enhancing my cloud security skills through practical exercises and real-world scenarios. View my achievements [here](https://letsdefend.io).
 - ☁️ **Cloud Security**: Working on cloud security projects to fortify cloud environments and ensure compliance.
 
 ## 🌟 Fun Fact
