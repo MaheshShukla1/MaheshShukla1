@@ -1,6 +1,6 @@
 # 💫 About Me
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/JailBreaker.png)](https://tryhackme.com/p/JailBreaker)
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/JailBreaker.png)](https://tryhackme.com/p/JailBreaker)
 # Hi there, I'm Mahesh Shukla! 👋
 I'm a passionate **Cloud Security Enthusiast** and aspiring entrepreneur focused on **cloud security**. Currently, I'm delving into various cybersecurity domains, honing my skills, and working towards impactful goals.
 
