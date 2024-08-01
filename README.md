@@ -6,7 +6,7 @@ I'm a passionate **cloud security enthusiast** and aspiring entrepreneur with a 
 
 ## 🖥️ Currently Working On
 - ☁️ **Cloud Security Projects**
-  - **Secure Cloud Infrastructure**: Designing and implementing secure cloud architecture on AWS and Azure.
+  - **Secure Cloud Infrastructure**: Designing and implementing secure cloud architecture on AWS.
   - **IAM Best Practices**: Implementing robust Identity and Access Management (IAM) policies.
   - **Cloud Compliance**: Ensuring cloud environments meet regulatory compliance standards.
   - **Container Security**: Securing Docker and Kubernetes environments.
@@ -31,12 +31,25 @@ I'm a passionate **cloud security enthusiast** and aspiring entrepreneur with a 
 - 🐋 **Containerization**: Docker and Kubernetes security.
 
 ## 🛠️ Skills and Expertise
-- 🔒 **Cybersecurity Tools**: YARA, Snort, John the Ripper, Wireshark, Scapy, Docker.
-- 💻 **Programming**: Python (requests, paramiko, Beautiful Soup, nmap, pyShark), Bash scripting.
+- 🔒 **Cybersecurity Tools**: YARA, Snort, Wireshark, Scapy, Nmap.
+- 💻 **Programming**: Python (requests, boto3, subprocess), Bash scripting.
 - 🌐 **Networking**: Deep understanding of TCP/IP, OSI model, network security protocols.
 - 🐧 **Linux**: Extensive experience with Linux command line, scripting, and administration.
 - ☁️ **Cloud Security**: Cloud security architecture, cloud compliance, IAM, securing cloud services.
 - ☸️ **Container Security**: Securing Docker and Kubernetes environments.
+- IAM (Identity and Access Management): Deep understanding of roles, policies, and access control.
+- Network Security: Proficiency in VPC, security groups, NACLs, WAF, and network firewalls.
+- Data Protection: Expertise in encryption, key management, and data loss prevention.
+- Security Auditing and Monitoring: Skills in using CloudTrail, CloudWatch, and Security Hub.
+- Incident Response: Knowledge of handling security incidents and conducting investigations.
+- Compliance: Understanding of security regulations (PCI DSS, HIPAA, GDPR) and AWS compliance services.
+- DevSecOps: Integrating security into development and deployment pipelines.
+- Threat Detection: Proficiency in using tools like GuardDuty and Inspector.
+- Automation: Scripting skills (Python, Bash) to automate security tasks.
+- Cloud Security Certifications: AWS Certified Security Specialty
+- Programming languages: Python boto3
+- Linux command line, AWS CLI
+- Containerization: Docker, Kubernetes
 
 ## 🎯 Goals
 - **Short Term**: Achieve the **AWS Certified Security - Specialty** certification.
@@ -45,8 +58,11 @@ I'm a passionate **cloud security enthusiast** and aspiring entrepreneur with a 
 ## 📈 Achievements
 - 🏆 **Typing Speed**: Achieved typing speed of 150+ words per minute (wpm).
 - **Networking Fundamentals** (Completed).
+- **Linux Command Line** (Completed).
+- 
 ## 🥇 Certifications
 - **AWS Certified Security - Specialty** (Expected by December 2024).
+
 ## 📹 Current Projects
 - 🎥 **SecLab YouTube Channel**: Creating engaging and educational content on networking and cybersecurity, explained in Hindi.
 - ☁️ **TryHackMe**: Actively participating in CTF challenges to sharpen my practical skills and knowledge. Check out my profile [here](https://tryhackme.com).
@@ -57,6 +73,9 @@ I'm a passionate **cloud security enthusiast** and aspiring entrepreneur with a 
 
 ## 📂 Repositories <br>
 * ## [Healthcare-Ransomware-Case-Study](https://github.com/MaheshShukla1/Healthcare-Ransomware-Case-Study)
+* ## [AWS Automation Scripts](https://github.com/MaheshShukla1/aws-iam-automation-scripts)
+* ## [AWS Cloud Securit](https://github.com/MaheshShukla1/Aws-cloud-security)
+* ## [Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet)
 * ## [Networking Fundamentals](https://github.com/MaheshShukla1/Networking_Notes_2024)
 * ## [Linux_basics_to_advanced](https://github.com/MaheshShukla1/Linux-Basics-To-Advanced)
 * ## [SOC_Analyst Notes](https://github.com/MaheshShukla1/SOC_NOTES_2024)
