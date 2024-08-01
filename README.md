@@ -2,24 +2,24 @@
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/JailBreaker.png)](https://tryhackme.com/p/JailBreaker)
 
 # Hi there, I'm Mahesh Shukla! 👋
-I'm a passionate **cloud security enthusiast** and aspiring entrepreneur with a strong focus on **cloud security**. I'm currently diving deep into various cybersecurity domains, honing my skills, and working towards impactful goals.
+I'm a passionate **Cloud Security Enthusiast** and aspiring entrepreneur focused on **cloud security**. Currently, I'm delving into various cybersecurity domains, honing my skills, and working towards impactful goals.
 
-## 🖥️ Currently Working On
-- ☁️ **Cloud Security Projects**
+## 🖥️ Current Projects
+- ☁️ **Cloud Security Initiatives**
   - **Secure Cloud Infrastructure**: Designing and implementing secure cloud architecture on AWS.
   - **IAM Best Practices**: Implementing robust Identity and Access Management (IAM) policies.
   - **Cloud Compliance**: Ensuring cloud environments meet regulatory compliance standards.
   - **Container Security**: Securing Docker and Kubernetes environments.
 
-## 🤝 Looking to Collaborate On
+## 🤝 Collaboration Interests
 - 💡 Innovative projects that push the boundaries of technology and security.
 - ☁️ Cloud Security solutions and strategies.
 
-## 🔐 Looking to Help With
+## 🔐 Assistance Offerings
 - ☁️ Implementing and securing cloud environments.
 - 🛡️ Cloud Security best practices and strategies.
 
-## 📚 Currently Learning
+## 📚 Current Learning Focus
 - 📘 Advanced concepts in cloud security and preparing for the **AWS Certified Security - Specialty** certification.
 - 📘 Relevant Python modules for cloud security, Linux administration, Docker, and Kubernetes.
 
@@ -31,25 +31,12 @@ I'm a passionate **cloud security enthusiast** and aspiring entrepreneur with a 
 - 🐋 **Containerization**: Docker and Kubernetes security.
 
 ## 🛠️ Skills and Expertise
-- 🔒 **Cybersecurity Tools**: YARA, Snort, Wireshark, Scapy, Nmap.
+- 🔒 **Cybersecurity Tools**: YARA, Snort, John the Ripper, Wireshark, Scapy, Nmap.
 - 💻 **Programming**: Python (requests, boto3, subprocess), Bash scripting.
 - 🌐 **Networking**: Deep understanding of TCP/IP, OSI model, network security protocols.
 - 🐧 **Linux**: Extensive experience with Linux command line, scripting, and administration.
 - ☁️ **Cloud Security**: Cloud security architecture, cloud compliance, IAM, securing cloud services.
 - ☸️ **Container Security**: Securing Docker and Kubernetes environments.
-- IAM (Identity and Access Management): Deep understanding of roles, policies, and access control.
-- Network Security: Proficiency in VPC, security groups, NACLs, WAF, and network firewalls.
-- Data Protection: Expertise in encryption, key management, and data loss prevention.
-- Security Auditing and Monitoring: Skills in using CloudTrail, CloudWatch, and Security Hub.
-- Incident Response: Knowledge of handling security incidents and conducting investigations.
-- Compliance: Understanding of security regulations (PCI DSS, HIPAA, GDPR) and AWS compliance services.
-- DevSecOps: Integrating security into development and deployment pipelines.
-- Threat Detection: Proficiency in using tools like GuardDuty and Inspector.
-- Automation: Scripting skills (Python, Bash) to automate security tasks.
-- Cloud Security Certifications: AWS Certified Security Specialty
-- Programming languages: Python boto3
-- Linux command line, AWS CLI
-- Containerization: Docker, Kubernetes
 
 ## 🎯 Goals
 - **Short Term**: Achieve the **AWS Certified Security - Specialty** certification.
@@ -58,8 +45,7 @@ I'm a passionate **cloud security enthusiast** and aspiring entrepreneur with a 
 ## 📈 Achievements
 - 🏆 **Typing Speed**: Achieved typing speed of 150+ words per minute (wpm).
 - **Networking Fundamentals** (Completed).
-- **Linux Command Line** (Completed).
-- 
+
 ## 🥇 Certifications
 - **AWS Certified Security - Specialty** (Expected by December 2024).
 
