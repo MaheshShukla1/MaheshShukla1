@@ -59,15 +59,14 @@ I'm a passionate **Cloud Security Enthusiast** and aspiring entrepreneur focused
 
 ## 📂 Repositories <br>
 * ## [Healthcare-Ransomware-Case-Study](https://github.com/MaheshShukla1/Healthcare-Ransomware-Case-Study)
+* ## [IAM User Management Automation Project](https://github.com/MaheshShukla1/iam-user-management-automation)
 * ## [AWS Automation Scripts](https://github.com/MaheshShukla1/aws-iam-automation-scripts)
 * ## [AWS Cloud Securit](https://github.com/MaheshShukla1/Aws-cloud-security)
 * ## [Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet)
 * ## [Networking Fundamentals](https://github.com/MaheshShukla1/Networking_Notes_2024)
 * ## [Linux_basics_to_advanced](https://github.com/MaheshShukla1/Linux-Basics-To-Advanced)
-* ## [SOC_Analyst Notes](https://github.com/MaheshShukla1/SOC_NOTES_2024)
 * ## [Python Modules](https://github.com/MaheshShukla1/Python-SOC-Security-notes)
-* ## [CompTIA SY0-701 Security+ Study Notes](https://github.com/MaheshShukla1/CompTIA-SY0-701-Security-Study-Notes)
-* ## [Snort-IDS-Configuration-Rules-and-Examples](https://github.com/MaheshShukla1/Snort-IDS-Configuration-Rules-and-Examples)
+* 
 [![](https://visitcount.itsvg.in/api?id=MaheshShukla1&label=Active&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
