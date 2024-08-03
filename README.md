@@ -45,6 +45,7 @@ I'm a passionate **Cloud Security Enthusiast** and aspiring entrepreneur focused
 ## 📈 Achievements
 - 🏆 **Typing Speed**: Achieved typing speed of 150+ words per minute (wpm).
 - **Networking Fundamentals** (Completed).
+- **Linux Command line** (Completed).
 
 ## 🥇 Certifications
 - **AWS Certified Security - Specialty** (Expected by December 2024).
@@ -61,7 +62,7 @@ I'm a passionate **Cloud Security Enthusiast** and aspiring entrepreneur focused
 * ## [Healthcare-Ransomware-Case-Study](https://github.com/MaheshShukla1/Healthcare-Ransomware-Case-Study)
 * ## [IAM User Management Automation Project](https://github.com/MaheshShukla1/iam-user-management-automation)
 * ## [AWS Automation Scripts](https://github.com/MaheshShukla1/aws-iam-automation-scripts)
-* ## [AWS Cloud Securit](https://github.com/MaheshShukla1/Aws-cloud-security)
+* ## [AWS Cloud Security](https://github.com/MaheshShukla1/Aws-cloud-security)
 * ## [Cheatsheet](https://github.com/MaheshShukla1/Cheatsheet)
 * ## [Networking Fundamentals](https://github.com/MaheshShukla1/Networking_Notes_2024)
 * ## [Linux_basics_to_advanced](https://github.com/MaheshShukla1/Linux-Basics-To-Advanced)
