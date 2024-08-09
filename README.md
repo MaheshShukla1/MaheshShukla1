@@ -6,11 +6,20 @@
 As a dedicated **Cloud Security Enthusiast** and aspiring entrepreneur, I focus on advancing cloud security and tackling various cybersecurity challenges. Currently, I am enhancing my skills across different cybersecurity domains and working towards achieving impactful goals.
 
 ## 🖥️ Current Projects
+
 - ☁️ **Cloud Security Initiatives**
   - **Designing Secure Cloud Architectures**: Crafting and implementing robust cloud solutions on AWS.
   - **IAM Best Practices**: Establishing and managing effective Identity and Access Management (IAM) policies.
   - **Ensuring Cloud Compliance**: Aligning cloud environments with regulatory standards.
   - **Container Security**: Strengthening security for Docker and Kubernetes environments.
+  
+- 🖥️ **IAM Manager GUI**: 
+  - **Overview**: A user-friendly graphical interface for managing AWS IAM users and their associated resources.
+  - **Features**:
+    - Create, delete, and manage IAM users.
+    - Real-time logging and error handling.
+    - Cross-platform support with a modern UI.
+  - **Link**: [IAM Manager GUI Project](https://github.com/MaheshShukla1/IAM-Manager-GUI)
 
 ## 🤝 Collaboration Interests
 - 💡 Engaging in innovative projects that advance technology and security.
@@ -57,8 +66,7 @@ As a dedicated **Cloud Security Enthusiast** and aspiring entrepreneur, I focus 
 ## 🌟 Fun Fact
 *"When you learn, you earn."* 🚀
 
-
-## 📂 Repositories <br>
+## 📂 Repositories
 * ## [Healthcare-Ransomware-Case-Study](https://github.com/MaheshShukla1/Healthcare-Ransomware-Case-Study)
 * ## [IAM User Management Automation Project](https://github.com/MaheshShukla1/iam-user-management-automation)
 * ## [AWS Automation Scripts](https://github.com/MaheshShukla1/aws-iam-automation-scripts)
@@ -67,7 +75,8 @@ As a dedicated **Cloud Security Enthusiast** and aspiring entrepreneur, I focus 
 * ## [Networking Fundamentals](https://github.com/MaheshShukla1/Networking_Notes_2024)
 * ## [Linux_basics_to_advanced](https://github.com/MaheshShukla1/Linux-Basics-To-Advanced)
 * ## [Python Modules](https://github.com/MaheshShukla1/Python-SOC-Security-notes)
-  
+* ## [IAM Manager GUI](https://github.com/MaheshShukla1/IAM-Manager-GUI)
+
 [![](https://visitcount.itsvg.in/api?id=MaheshShukla1&label=Active&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
