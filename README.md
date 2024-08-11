@@ -17,14 +17,17 @@ I'm a passionate **Cloud Security Enthusiast** and entrepreneur focused on advan
 - **Cloud Compliance**: Ensuring cloud environments adhere to regulatory standards.
 - **Container Security**: Enhancing security for Docker and Kubernetes environments.
 
-### IAM Manager GUI
+### AWS IAM Management GUI
 
-- **Overview**: A powerful tool for automating IAM-related tasks in AWS, offering a user-friendly interface for managing IAM users, roles, and policies.
+- **Overview**: A user-friendly desktop application for efficient **AWS IAM Management**, simplifying **Identity and Access Management** tasks with an intuitive graphical interface.
 - **Key Features**:
-    - Streamlined automation of IAM user, role, and policy management.
-    - Real-time logging and robust error handling.
-    - Cross-platform compatibility with a modern, intuitive UI.
-- **Explore the Project**: [IAM Manager GUI on GitHub](https://github.com/MaheshShukla1/IAM-Manager-GUI)
+    - **User Management**: Seamlessly create, list, and delete IAM users.
+    - **Role Management**: Manage roles, including attaching/detaching policies and managing trust policies.
+    - **Policy Management**: Create, list, and delete IAM policies.
+    - **Group Management**: Handle IAM groups easily.
+    - **GUI Interface**: Modern and intuitive interface for efficient AWS IAM resource management.
+    - **AWS Integration**: Utilizes `boto3` for seamless AWS service interaction.
+- **Explore the Project**: [AWS IAM Management GUI on GitHub](https://github.com/MaheshShukla1/AWS-IAM-Management-GUI)
 
 ## 🤝 Collaboration Interests
 
