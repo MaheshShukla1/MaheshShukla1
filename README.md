@@ -75,7 +75,7 @@ I'm a passionate **Cloud Security Enthusiast** and entrepreneur focused on advan
 - **Cloud Security Projects**: Developing projects to meet industry standards.
 
 ## ✨ Fun Fact
-_"When you learn, you earn."_
+"When you learn, you earn."
 
 ## Repositories
 
