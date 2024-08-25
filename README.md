@@ -95,7 +95,7 @@ I'm a passionate **Cloud Security Enthusiast** and entrepreneur focused on advan
 
 ## Repositories
 
-- [**AWS IAM Management GUI**](https://github.com/MaheshShukla1/AWS-IAM-Management-GUI) - Simplified Identity & Access Management for Cloud Security
+- [**AWS IAM Management GUI**](https://github.com/MaheshShukla1/AWS-IAM-Management-GUI) - Simplified Identity & Access Management for Cloud Security.
 - [**Healthcare Ransomware Case Study**](https://github.com/MaheshShukla1/Healthcare-Ransomware-Case-Study) - In-depth analysis of ransomware attacks in healthcare.
 - [**IAM User Management Automation Project**](https://github.com/MaheshShukla1/iam-user-management-automation) - Automated IAM User Management for AWS.
 - [**AWS Automation Scripts**](https://github.com/MaheshShukla1/aws-iam-automation-scripts) - Scripts for automating AWS IAM tasks.
@@ -103,7 +103,7 @@ I'm a passionate **Cloud Security Enthusiast** and entrepreneur focused on advan
 - [**Cheatsheet**](https://github.com/MaheshShukla1/Cheatsheet) - Quick reference guides for various tools and technologies.
 - [**Networking Fundamentals**](https://github.com/MaheshShukla1/Networking_Notes_2024) - Comprehensive notes on networking concepts.
 - [**Linux Basics to Advanced**](https://github.com/MaheshShukla1/Linux-Basics-To-Advanced) - Detailed guide from basic to advanced Linux concepts.
-- [**Python Modules**](https://github.com/MaheshShukla1/Python-SOC-Security-notes) - Notes on Python modules for SOC and Security
+- [**Python Modules**](https://github.com/MaheshShukla1/Python-SOC-Security-notes) - Notes on Python modules for SOC and Security.
   
 [![](https://visitcount.itsvg.in/api?id=MaheshShukla1&label=Active&pretty=true)](https://visitcount.itsvg.in)
 
