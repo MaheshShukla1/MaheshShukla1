@@ -17,7 +17,7 @@ I'm a passionate **Cloud Security Enthusiast** and entrepreneur focused on advan
 - **Cloud Compliance**: Ensuring cloud environments adhere to regulatory standards.
 - **Container Security**: Enhancing security for Docker and Kubernetes environments.
 
-### AWS IAM Management GUI | Simplified Identity & Access Management for Cloud Security.
+### AWS IAM Management GUI | Simplified Identity & Access Management for Cloud Security
 
 - **Overview**: A user-friendly desktop application for efficient **AWS IAM Management**, simplifying **Identity and Access Management** tasks with an intuitive graphical interface.
 - **Key Features**:
