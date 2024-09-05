@@ -43,7 +43,7 @@ I'm a passionate **Cloud Security Enthusiast** and entrepreneur focused on advan
 - **Cloud Security Solutions**: Developing and implementing advanced cloud security strategies.
 - **CSPM Development**: Collaborating with experts to refine and expand CSPM capabilities for SMEs.
 
-## 🎓 Current Learning Focus.
+## 🎓 Current Learning Focus
 
 - **AWS Certified Security - Specialty**: Deepening my understanding of advanced cloud security concepts.
 - **Python for Cloud Security**: Mastering Python modules related to cloud security, Linux administration, Docker, Kubernetes, and AWS CLI (boto3).
