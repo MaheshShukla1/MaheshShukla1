@@ -4,7 +4,7 @@
 
 I am deeply passionate about **cloud security**, developing **automation tools**, and helping SMEs improve their security posture. With a focus on AWS and cloud-native tools, my aim is to deliver practical, user-friendly solutions to complex cybersecurity challenges.
 
-## 🌐 **TryHackMe Profile**
+## 🌐 **TryHackMe Profile!**
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/JailBreaker.png)](https://tryhackme.com/p/JailBreaker)
 
