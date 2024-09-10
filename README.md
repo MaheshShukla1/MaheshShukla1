@@ -99,7 +99,7 @@ _"When you learn, you earn."_
 - [**Cheatsheet**](https://github.com/MaheshShukla1/Cheatsheet) - Quick reference guides for various tools and technologies.
 - [**Networking Fundamentals**](https://github.com/MaheshShukla1/Networking_Notes_2024) - Comprehensive notes on networking concepts.
 - [**Linux Basics to Advanced**](https://github.com/MaheshShukla1/Linux-Basics-To-Advanced) - Detailed guide from basic to advanced Linux concepts.
-- [**Python Modules**](https://github.com/MaheshShukla1/Python-SOC-Security-notes) - Notes on Python modules for SOC and Security.
+- [**Python Modules**](https://github.com/MaheshShukla1/Python-SOC-Security-notes) - Notes on Python modules for SOC and Security
   
 [![](https://visitcount.itsvg.in/api?id=MaheshShukla1&label=Active&pretty=true)](https://visitcount.itsvg.in)
 
