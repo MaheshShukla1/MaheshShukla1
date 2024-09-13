@@ -21,7 +21,7 @@ A game-changing **Cloud Security Posture Management (CSPM)** solution designed s
 - **AWS Integration**: Utilizes AWS CloudWatch, IAM, and other services for a comprehensive view.
 
 > **Project Status**: In development | Target Completion: Q1 2024  
-> **Key Goal**: To simplify cloud security for SMEs with a focus on usability and cost-effectiveness.
+> **Key Goal**: To simplify cloud security for SMEs with a focus on usability and cost-effectiveness
 
 ---
 
