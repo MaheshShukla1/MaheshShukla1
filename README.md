@@ -65,7 +65,7 @@ A powerful desktop application simplifying **AWS IAM** management for security a
 
 ## 🏆 **Achievements**
 
-- **Typing Speed**: 150+ WPM.
+- **Typing Speed**: 160+ WPM.
 - **Security Competitions**: Active participant in CTF challenges on TryHackMe.
 - **Networking Expertise**: Deep understanding of network security fundamentals.
 
