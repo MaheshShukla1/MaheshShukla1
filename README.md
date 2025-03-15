@@ -58,7 +58,7 @@ A powerful desktop application simplifying **AWS IAM** management for security a
 
 ## 🚀 **Goals**
 
-- **Short Term**: Earn **AWS Certified Security - Specialty** by December 2024.
+- **Short Term**: Earn **AWS Certified Solutions Architect - Associate** 
 - **Long Term**: Successfully launch and scale **CSPM MVP**, providing SMEs with an affordable and efficient cloud security solution.
 
 ---
@@ -73,7 +73,7 @@ A powerful desktop application simplifying **AWS IAM** management for security a
 
 ## 🎯 **Certifications**
 
-- **AWS Certified Security - Specialty** _(Expected December 2024)_
+- **AWS Certified Solutions Architect - Associate**
 
 ---
 
