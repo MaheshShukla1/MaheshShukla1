@@ -90,7 +90,7 @@ A powerful desktop application simplifying **AWS IAM** management for security a
 _"When you learn, you earn."_
 
 ## Repositories
-
+- [**AWS VPC**](https://github.com/MaheshShukla1/AWS-VPC)
 - [**AWS IAM Management GUI**](https://github.com/MaheshShukla1/AWS-IAM-Management-GUI) - Simplified Identity & Access Management for Cloud Security.
 - [**Healthcare Ransomware Case Study**](https://github.com/MaheshShukla1/Healthcare-Ransomware-Case-Study) - In-depth analysis of ransomware attacks in healthcare.
 - [**IAM User Management Automation Project**](https://github.com/MaheshShukla1/iam-user-management-automation) - Automated IAM User Management for AWS.
