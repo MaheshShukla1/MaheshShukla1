@@ -11,20 +11,6 @@ I am deeply passionate about **cloud security**, developing **automation tools**
 ---
 
 ## 🔥 **Current Projects**
-
-### 📊 **CSPM MVP (Cloud Security Posture Management)**
-
-A game-changing **Cloud Security Posture Management (CSPM)** solution designed specifically for **SMEs**. This project automates security risk assessments, sends real-time alerts, and provides seamless AWS integration.
-
-- **Automated Risk Assessment**: Identify potential risks across cloud resources automatically.
-- **Real-Time Security Alerts**: Stay updated with alerts for security vulnerabilities.
-- **AWS Integration**: Utilizes AWS CloudWatch, IAM, and other services for a comprehensive view.
-
-> **Project Status**: In development | Target Completion: Q1 2024  
-> **Key Goal**: To simplify cloud security for SMEs with a focus on usability and cost-effectiveness
-
----
-
 ### 🔐 **AWS IAM Management GUI**
 
 A powerful desktop application simplifying **AWS IAM** management for security administrators. This project provides a graphical interface for AWS IAM, making user, role, policy, and group management straightforward and accessible.
@@ -38,17 +24,17 @@ A powerful desktop application simplifying **AWS IAM** management for security a
 
 ---
 
-## 🎓 **Learning Focus**
+## 🎓 Learning Focus
 
-- **AWS Certified Security - Specialty**: Diving deep into advanced cloud security concepts.
+- **AWS Certified Solutions Architect - Associate**: Diving deep into advanced cloud security concepts.
 - **Python for Cloud Security**: Automating security tasks with Python (`boto3`, `AWS CLI`).
 - **Advanced IAM**: Mastering AWS IAM roles, policies, and permissions to secure cloud infrastructure.
-
+- **Terraform**: Infrastructure as Code to build and manage secure cloud environments efficiently.
 ---
 
 ## 🛠️ **Skills & Expertise**
 
-- **Cloud Security**: AWS IAM, CloudTrail, GuardDuty, Security Hub, KMS, WAF, Shield.
+- **Cloud Security**: AWS IAM, VPC, S3, Cloudtrail, KMS, RDS.
 - **Infrastructure as Code**: Terraform, CloudFormation.
 - **Programming**: Python (with a focus on `boto3` for AWS automation), Bash scripting.
 - **Linux & Networking**: Proficient in Linux command line, TCP/IP, VPC configurations, firewalls, security groups.
@@ -65,7 +51,7 @@ A powerful desktop application simplifying **AWS IAM** management for security a
 
 ## 🏆 **Achievements**
 
-- **Typing Speed**: 160+ WPM.
+- **Typing Speed**: 170+ WPM.
 - **Security Competitions**: Active participant in CTF challenges on TryHackMe.
 - **Networking Expertise**: Deep understanding of network security fundamentals.
 
