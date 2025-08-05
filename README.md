@@ -102,7 +102,7 @@ A powerful desktop app simplifying **AWS IAM** management for security admins:
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheshShukla1&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaheshShukla1&theme=dark&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=MaheshShukla1&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshShukla1&theme=dark&hide_border=true&layout=compact&langs_count=10)  
 
 ---
