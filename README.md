@@ -25,7 +25,6 @@ I design **secure, automated, and scalable solutions** by combining:
 - ☁ **AWS Security Mastery** → IAM, VPC, S3, CloudTrail, KMS, EC2
 - ⚙ **Infrastructure as Code** → Terraform, CloudFormation
 - 🐍 **Python Automation** → boto3, AWS CLI, security tooling
-- 📜 **Compliance** → PCI DSS, HIPAA, GDPR
 
 > _“Secure by Design, Automated by Default.”_
 
