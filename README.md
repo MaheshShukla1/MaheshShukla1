@@ -15,7 +15,7 @@ Helping SMBs secure their cloud — AWS IAM, VPC, S3, Python Automation, Terrafo
 ---
 
 ## 🌐 Cybersecurity Profile
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/JailBreaker.png)](https://tryhackme.com/p/JailBreaker)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BlkICE.png)](https://tryhackme.com/p/BlkICE)
 
 ---
 
