@@ -37,7 +37,7 @@ I design **secure, automated, and scalable solutions** by combining:
 
 ## 🏆 **Key Achievements**
 - 🚀 Built **AWS IAM Management GUI** → zero-CLI, intuitive security tool  
-- 🔍 Created **CloudGuardAudit** → AWS IAM auditing CLI + Terraform remediation  
+- 🚀 Built **AWS VPC Bastion + Private EC2** → hands-on project demonstrating secure VPC design with Bastion Host, private EC2, subnet isolation, and SSH access flow  
 - ⚡ Typing speed: **170+ WPM** → faster than your SIEM logs scroll  
 - 🎖 Top **TryHackMe CTF** participant — global upper percentile  
 
@@ -46,8 +46,7 @@ I design **secure, automated, and scalable solutions** by combining:
 ## 🔥 **Featured Projects**
 | 🚀 Project | 💡 Description |
 |------------|---------------|
-| [**CloudGuardAudit**](https://github.com/MaheshShukla1/CloudGuardAudit) | AWS IAM auditing + Terraform remediation tool |
-| [**AWS IAM Management GUI**](https://github.com/MaheshShukla1/AWS-IAM-Management-GUI) | Cross-platform IAM management without CLI |
+| [**AWS VPC Bastion + Private EC2**](https://github.com/MaheshShukla1/aws-vpc-bastion-private-ec2-architecture) | Hands-on project demonstrating secure VPC design with Bastion Host, private EC2, subnet isolation, and SSH access flow |
 | [**Ransomware Case Study**](https://github.com/MaheshShukla1/Healthcare-Ransomware-Case-Study) | Deep dive into ransomware targeting healthcare |
 
 ---
