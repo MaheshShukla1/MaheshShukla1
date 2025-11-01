@@ -3,7 +3,6 @@ Mahesh Shukla | AWS Cloud Security Specialist | Terraform Security Engineer | IA
 Helping SMBs secure their cloud — AWS IAM, VPC, S3, Python Automation, Terraform IaC
 -->
 
-<!-- ASCII / Banner -->
 <h1 align="center">
   🛡️ Mahesh Shukla — Cloud Security & Automation Architect
 </h1>
@@ -15,39 +14,84 @@ Helping SMBs secure their cloud — AWS IAM, VPC, S3, Python Automation, Terrafo
 ---
 
 ## 🌐 Cybersecurity Profile
+
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BlkICE.png)](https://tryhackme.com/p/BlkICE)
 
 ---
+## 🎯 Professional Summary
 
-## 🚀 **About Me**
-I’m **Mahesh Shukla**, a **Cloud Security Specialist** & **AWS IAM Automation Expert** on a mission to make **enterprise-grade cloud security accessible to SMBs**.  
-I design **secure, automated, and scalable solutions** by combining:
-- ☁ **AWS Security Mastery** → IAM, VPC, S3, CloudTrail, KMS, EC2
-- ⚙ **Infrastructure as Code** → Terraform, CloudFormation
-- 🐍 **Python Automation** → boto3, AWS CLI, security tooling
-
-> _“Secure by Design, Automated by Default.”_
+Motivated Cloud & DevOps Engineer focused on cloud security, automation, and scalable infrastructure. Hands-on experience designing, automating, and managing AWS environments using Terraform, CloudFormation, and Python. Experienced with CI/CD pipelines, monitoring, and implementing security best practices for cost-efficient cloud operations.
 
 ---
 
-## 🎯 **Certifications**
-- 🛡 AWS Certified Solutions Architect — Associate _(In Progress)_
+## 🛠 Technical Skills
+
+* **Cloud:** AWS (EC2, S3, RDS, Lambda, CloudFront, IAM, VPC)
+* **IaC & DevOps:** Terraform, CloudFormation, GitHub Actions, Jenkins, Docker
+* **Scripting:** Python (boto3), Bash, PowerShell
+* **Security:** IAM hardening, least privilege, encryption (KMS), CloudTrail, Config, Security Hub
+* **OS:** Linux (Ubuntu, Amazon Linux), Windows
 
 ---
 
-## 🏆 **Key Achievements**
-- 🚀 Built **AWS IAM Management GUI** → zero-CLI, intuitive security tool  
-- 🚀 Built **AWS VPC Bastion + Private EC2** → hands-on project demonstrating secure VPC design with Bastion Host, private EC2, subnet isolation, and SSH access flow  
-- ⚡ Typing speed: **170+ WPM** → faster than your SIEM logs scroll  
-- 🎖 Top **TryHackMe CTF** participant — global upper percentile  
+## 🔥 Featured Projects (current)
+
+1. **AWS DevSecOps Infrastructure Automation** — *Cloud/DevOps Engineer* (Jun 2025 – Oct 2025)
+
+   * Designed and automated a secure 3-tier AWS infrastructure using Terraform & CloudFormation.
+   * Built CI/CD pipelines via GitHub Actions for zero-downtime deployments.
+   * Configured CloudWatch alarms, dashboards, and SNS alerts for proactive incident response.
+   * Implemented IAM least-privilege policies, encryption, and security group optimizations.
+   * Achieved ~30% cost optimization and reduced provisioning time by 90%.
+   * Repo: [https://github.com/MaheshShukla1/aws-devsecops-infrastructure-automation](https://github.com/MaheshShukla1/aws-devsecops-infra)
+
+2. **IAM X-Ray — AWS IAM Visualizer & Auditor** — *Python Developer* (Jul 2025 – Oct 2025)
+
+   * Automated IAM audit tool using Python (boto3) that identifies over-privileged users and risky policies.
+   * Integrated with AWS Config and Security Hub for continuous compliance checks and real-time alerts.
+   * Implemented risk scoring for IAM policy modifications and generated remediation suggestions.
+   * Repo: [https://github.com/MaheshShukla1/iam-x-ray-aws-iam-visualizer](https://github.com/MaheshShukla1/IAM-X-Ray)
 
 ---
 
-## 🔥 **Featured Projects**
-| 🚀 Project | 💡 Description |
-|------------|---------------|
-| [**AWS VPC Bastion + Private EC2**](https://github.com/MaheshShukla1/aws-vpc-bastion-private-ec2-architecture) | Hands-on project demonstrating secure VPC design with Bastion Host, private EC2, subnet isolation, and SSH access flow |
-| [**Ransomware Case Study**](https://github.com/MaheshShukla1/Healthcare-Ransomware-Case-Study) | Deep dive into ransomware targeting healthcare |
+## 🔥 Other Projects (from GitHub)
+
+| 🚀 Project                                                                                                     | 💡 Description                                                                          |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [**AWS VPC Bastion + Private EC2**](https://github.com/MaheshShukla1/aws-vpc-bastion-private-ec2-architecture) | Secure VPC design with bastion host, private EC2, subnet isolation, and SSH access flow |
+| [**Ransomware Case Study**](https://github.com/MaheshShukla1/Healthcare-Ransomware-Case-Study)                 | Deep dive into ransomware targeting healthcare                                          |
+
+---
+
+## 🏆 Highlights
+
+* Built an **AWS IAM Management GUI** for simplified IAM operations.
+* Implemented secure VPC designs and automation for repeatable deployments.
+* Hands-on experience reducing provisioning time and optimizing cloud costs.
+* Top TryHackMe CTF participant; strong interest in offensive and defensive cloud security.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)** — Amrita Vishwa Vidyapeetham, Coimbatore (Graduated Dec 2024)
+
+---
+
+## 📜 Certifications
+
+* AWS Certified Solutions Architect — Associate (In Progress — Expected Jan 2026)
+
+---
+
+## ⚡ Fun Fact
+
+*I type faster than your firewall logs scroll.* — **170+ WPM**
+
+---
+
+📌 *Open for collaborations, cloud-native security tools development, and internships.*
+
 
 ---
 
