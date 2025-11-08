@@ -148,6 +148,8 @@ Hands-on with AWS, Terraform, and Python for end-to-end cloud lifecycle manageme
 
 *"I type faster than your firewall logs scroll."* — **170+ WPM**  
 
+[![Monkeytype 170+ WPM](https://img.shields.io/badge/Typing-170%2B%20WPM-blue?style=for-the-badge&logo=keyboard)](https://monkeytype.com/profile/OverClocked1)
+
 ---
 
 📌 *Open for collaborations, cloud-native security tools development, and internships.*
