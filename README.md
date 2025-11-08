@@ -6,7 +6,7 @@ Empowering SMBs to build secure, automated, and cost-optimized cloud infrastruct
 <h1 align="center">🛡️ Mahesh Shukla — Cloud Security & Automation Architect</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&size=25&center=true&vCenter=true&width=900&lines=AWS+Cloud+Security+Architect;Terraform+Security+Engineer;Python+Automation+Specialist;Founder+of+CloudGuardAudit;Empowering+SMBs+to+Secure+the+Cloud" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&size=25&center=true&vCenter=true&width=900&lines=AWS+Cloud+Security+Architect;Terraform+Security+Engineer;Python+Automation+Specialist;Creator+of+IAM+X-Ray+Open-Source;Empowering+SMBs+to+Secure+the+Cloud" alt="Typing SVG">
 </p>
 
 <p align="center">
