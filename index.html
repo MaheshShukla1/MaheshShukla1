@@ -3,341 +3,85 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Mahesh Shukla — Cloud Security & Automation Architect | AWS Certified Specialist | Terraform Security Engineer | Python Automation Expert | Building secure cloud solutions for SMBs with IAM, VPC, and IaC. Open for collaborations and speaking engagements.">
-  <meta name="keywords" content="Mahesh Shukla, AWS Cloud Security, Terraform IaC, Python boto3, AWS IAM Expert, Cloud Security Architect, DevSecOps, Cybersecurity Portfolio, AWS VPC Bastion, IAM X-Ray, Streamlit">
-  <meta name="author" content="Mahesh Shukla">
-  <meta name="robots" content="index, follow">
-
-  <!-- OG Meta -->
-  <meta property="og:title" content="Mahesh Shukla — Cloud Security & Automation Architect">
-  <meta property="og:description" content="AWS Cloud Security Specialist | Terraform Security Engineer | Python Automation Expert | Portfolio showcasing secure cloud solutions for SMBs.">
-  <meta property="og:image" content="https://avatars.githubusercontent.com/u/95337825?v=4">
-  <meta property="og:url" content="https://maheshshukla1.github.io/MaheshShukla1/">
-  <meta property="og:type" content="profile">
-
-  <!-- Twitter Meta -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Mahesh Shukla — Cloud Security & Automation Architect">
-  <meta name="twitter:description" content="AWS Cloud Security Specialist | Terraform Security Engineer | Python Automation Expert | Helping SMBs secure the cloud.">
-  <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/95337825?v=4">
-
-  <!-- Structured Data -->
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "Mahesh Shukla",
-      "jobTitle": "Cloud Security & Automation Architect",
-      "description": "AWS Certified Cloud Security Specialist specializing in IAM, VPC, Terraform IaC, and Python automation for secure cloud infrastructure.",
-      "url": "https://maheshshukla1.github.io/MaheshShukla1/",
-      "sameAs": [
-        "https://www.linkedin.com/in/maheshshukla01/",
-        "https://github.com/MaheshShukla1",
-        "https://x.com/Maheshshukla011",
-        "https://tryhackme.com/p/JailBreaker",
-        "https://medium.com/@Mahesh_Shukla",
-        "https://www.youtube.com/channel/UCa_oZ3SJu1z24ZRkOpLbc7Q"
-      ],
-      "knowsAbout": ["AWS Security", "Terraform", "Python Automation", "DevSecOps", "Cloud Infrastructure", "IAM Visualization"],
-      "image": "https://avatars.githubusercontent.com/u/95337825?v=4"
-    }
-  </script>
-
   <title>Mahesh Shukla — Cloud Security & Automation Architect</title>
 
-  <!-- Fonts -->
+  <!-- Meta -->
+  <meta name="description" content="Mahesh Shukla — AWS Cloud Security Specialist | Terraform Security Engineer | Python Automation Expert | Open-source IAM X-Ray creator | Portfolio">
+  <meta name="author" content="Mahesh Shukla">
+
+  <!-- Fonts & Icons -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-  <!-- Icons -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous">
-
-  <!-- Content Security Policy -->
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https://avatars.githubusercontent.com https://tryhackme-badges.s3.amazonaws.com https://img.shields.io https://komarev.com https://readme-typing-svg.herokuapp.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline';">
-
+  <!-- Styles -->
   <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: 'Poppins', sans-serif;
-      line-height: 1.7;
-      color: #1a1a1a;
-      background: #f5f7fa;
-      overflow-x: hidden;
-    }
-    .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
-    
+    * { margin:0; padding:0; box-sizing:border-box; font-family:'Poppins', sans-serif; }
+    body { background:#f5f7fa; color:#1a1a1a; scroll-behavior:smooth; }
+    a { text-decoration:none; }
     /* Navigation */
-    nav {
-      position: sticky;
-      top: 0;
-      background: rgba(255, 255, 255, 0.95);
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-      z-index: 1000;
-      padding: 1rem 0;
-    }
-    nav .container {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-    .nav-links a {
-      color: #1a1a1a;
-      text-decoration: none;
-      margin: 0 1rem;
-      font-weight: 500;
-      transition: color 0.3s;
-    }
-    .nav-links a:hover { color: #f05033; }
-    .nav-links a.active { border-bottom: 2px solid #f05033; }
-    
+    nav { position:sticky; top:0; background:rgba(255,255,255,0.95); padding:1rem 0; box-shadow:0 2px 5px rgba(0,0,0,0.1); z-index:1000; }
+    nav .container { display:flex; justify-content:space-between; align-items:center; }
+    nav .nav-links a { margin:0 1rem; font-weight:500; color:#1a1a1a; transition:0.3s; }
+    nav .nav-links a:hover, nav .nav-links a.active { color:#f07d00; border-bottom:2px solid #f07d00; }
+
     /* Hero */
-    .hero {
-      text-align: center;
-      padding: 120px 0;
-      background: linear-gradient(135deg, #2a2a7e, #6b48ff);
-      color: #fff;
-      position: relative;
-      overflow: hidden;
-    }
-    .hero::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: radial-gradient(circle, rgba(255,255,255,0.2) 0%, transparent 70%);
-      animation: pulse 15s infinite;
-      z-index: 0;
-    }
-    @keyframes pulse {
-      0% { transform: scale(1); opacity: 0.2; }
-      50% { transform: scale(1.2); opacity: 0.4; }
-      100% { transform: scale(1); opacity: 0.2; }
-    }
-    .hero .container { position: relative; z-index: 1; }
-    .hero h1 {
-      font-size: clamp(2.5rem, 5vw, 4.5rem);
-      font-weight: 700;
-      margin-bottom: 1rem;
-      text-shadow: 0 2px 8px rgba(0,0,0,0.3);
-    }
-    .hero img.avatar {
-      width: 150px;
-      height: 150px;
-      border-radius: 50%;
-      border: 4px solid #fff;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-      margin-bottom: 1.5rem;
-      transition: transform 0.3s;
-    }
-    .hero img.avatar:hover { transform: scale(1.05); }
-    .hero .typing-svg { max-width: 900px; margin: 1rem auto; }
-    
+    .hero { text-align:center; padding:120px 20px; background:linear-gradient(135deg, #2a2a7e, #ff7d00); color:#fff; position:relative; overflow:hidden; }
+    .hero img.avatar { width:150px; height:150px; border-radius:50%; border:4px solid #fff; margin-bottom:1rem; transition:transform 0.3s; }
+    .hero img.avatar:hover { transform:scale(1.05); }
+    .hero h1 { font-size:clamp(2.5rem,5vw,4rem); margin-bottom:1rem; text-shadow:0 2px 8px rgba(0,0,0,0.3); }
+    .typing-svg { max-width:900px; margin:1rem auto; display:block; }
+
     /* Sections */
-    .section { padding: 80px 0; }
-    .section:nth-child(even) { background: #ffffff; }
-    .section h2 {
-      font-size: clamp(1.8rem, 4vw, 2.8rem);
-      font-weight: 600;
-      color: #1a1a1a;
-      text-align: center;
-      margin-bottom: 3rem;
-      position: relative;
-    }
-    .section h2::after {
-      content: '';
-      position: absolute;
-      bottom: -10px;
-      left: 50%;
-      transform: translateX(-50%);
-      width: 60px;
-      height: 4px;
-      background: #f05033;
-      border-radius: 2px;
-    }
-    
-    /* Cards */
-    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; }
-    .card {
-      background: #fff;
-      border-radius: 12px;
-      padding: 2rem;
-      box-shadow: 0 6px 20px rgba(0,0,0,0.1);
-      transition: transform 0.3s, box-shadow 0.3s;
-    }
-    .card:hover {
-      transform: translateY(-8px);
-      box-shadow: 0 12px 30px rgba(0,0,0,0.15);
-    }
-    .card h3 {
-      font-size: 1.4rem;
-      font-weight: 600;
-      color: #1a1a1a;
-      margin-bottom: 1rem;
-    }
-    .card p { color: #4a4a4a; font-size: 1rem; }
-    .card .btn {
-      display: inline-block;
-      background: #f05033;
-      color: #fff;
-      padding: 0.8rem 1.5rem;
-      border-radius: 8px;
-      text-decoration: none;
-      font-weight: 500;
-      transition: background 0.3s, transform 0.2s;
-      text-align: center;
-      width: 100%;
-      margin-top: 1rem;
-    }
-    .card .btn:hover {
-      background: #d9432b;
-      transform: translateY(-2px);
-    }
-    
+    .section { padding:80px 20px; max-width:1200px; margin:0 auto; }
+    .section:nth-child(even){ background:#fff; }
+    .section h2 { text-align:center; font-size:clamp(1.8rem,4vw,2.5rem); margin-bottom:3rem; position:relative; }
+    .section h2::after { content:''; width:60px; height:4px; background:#f07d00; display:block; margin:0.5rem auto 0; border-radius:2px; }
+
+    /* Grid & Cards */
+    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:2rem; }
+    .card { background:#fff; border-radius:12px; padding:2rem; box-shadow:0 6px 20px rgba(0,0,0,0.1); transition:transform 0.3s, box-shadow 0.3s; }
+    .card:hover { transform:translateY(-8px); box-shadow:0 12px 30px rgba(0,0,0,0.15); }
+    .card h3 { font-size:1.4rem; margin-bottom:1rem; color:#1a1a1a; }
+    .card p { color:#4a4a4a; font-size:1rem; line-height:1.5; }
+    .card .btn { display:block; margin-top:1rem; background:#f07d00; color:#fff; padding:0.8rem 1rem; border-radius:8px; font-weight:500; text-align:center; transition:0.3s; }
+    .card .btn:hover { background:#d35c00; transform:translateY(-2px); }
+
     /* Achievements */
-    .achievements {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 1.5rem;
-      margin-bottom: 2rem;
-    }
-    .achievement {
-      background: #f05033;
-      color: #fff;
-      padding: 1rem 1.5rem;
-      border-radius: 8px;
-      font-weight: 500;
-      font-size: 0.95rem;
-      transition: transform 0.3s;
-    }
-    .achievement:hover { transform: scale(1.05); }
-    
+    .achievements { display:flex; flex-wrap:wrap; justify-content:center; gap:1.5rem; margin-bottom:2rem; }
+    .achievement { background:#f07d00; color:#fff; padding:1rem 1.5rem; border-radius:8px; font-weight:500; transition:0.3s; }
+    .achievement:hover { transform:scale(1.05); }
+
     /* Skills */
-    .skills {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 1.5rem;
-      margin-bottom: 2rem;
-    }
-    .skill-icon {
-      font-size: 2.5rem;
-      color: #f05033;
-      transition: transform 0.3s, color 0.3s;
-    }
-    .skill-icon:hover {
-      transform: scale(1.2);
-      color: #d9432b;
-    }
-    
-    /* Stats */
-    .stats {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 2rem;
-      text-align: center;
-    }
-    .stat img { width: 100%; border-radius: 8px; }
-    
+    .skills { display:flex; flex-wrap:wrap; justify-content:center; gap:1.5rem; margin-bottom:2rem; }
+    .skill-icon { font-size:2.5rem; color:#f07d00; transition:0.3s; }
+    .skill-icon:hover { transform:scale(1.2); color:#d35c00; }
+
+    /* Analytics */
+    .stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:2rem; text-align:center; }
+    .stats img { width:100%; border-radius:8px; }
+
     /* Social */
-    .social {
-      display: flex;
-      justify-content: center;
-      gap: 1rem;
-      flex-wrap: wrap;
-      margin-bottom: 2rem;
-    }
-    .social a {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.5rem;
-      background: #1a1a1a;
-      color: #fff;
-      padding: 0.8rem 1.5rem;
-      border-radius: 8px;
-      text-decoration: none;
-      font-weight: 500;
-      transition: background 0.3s, transform 0.2s;
-    }
-    .social a:hover {
-      background: #f05033;
-      transform: translateY(-2px);
-    }
-    
+    .social { display:flex; justify-content:center; flex-wrap:wrap; gap:1rem; margin-bottom:2rem; }
+    .social a { display:flex; align-items:center; gap:0.5rem; background:#1a1a1a; color:#fff; padding:0.8rem 1.2rem; border-radius:8px; transition:0.3s; }
+    .social a:hover { background:#f07d00; transform:translateY(-2px); }
+
     /* Fun Fact */
-    .fun-fact {
-      text-align: center;
-      font-style: italic;
-      color: #4a4a4a;
-      font-size: 1.2rem;
-      margin: 2rem 0;
-      background: #f8f9fa;
-      padding: 1rem;
-      border-radius: 8px;
-    }
-    
+    .fun-fact { text-align:center; font-style:italic; background:#f8f9fa; padding:1rem; border-radius:8px; margin:2rem 0; }
+
     /* Footer */
-    .footer {
-      text-align: center;
-      padding: 40px 0;
-      background: #1a1a1a;
-      color: #e0e0e0;
-    }
-    .footer a { color: #f05033; text-decoration: none; }
-    .footer a:hover { text-decoration: underline; }
-    
-    /* Resume Button */
-    .resume-btn {
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      background: #f05033;
-      color: #fff;
-      padding: 1rem 1.5rem;
-      border-radius: 50px;
-      text-decoration: none;
-      font-weight: 600;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-      transition: background 0.3s, transform 0.2s;
-    }
-    .resume-btn:hover {
-      background: #d9432b;
-      transform: translateY(-3px);
-    }
-    
+    .footer { text-align:center; padding:40px 20px; background:#1a1a1a; color:#e0e0e0; }
+    .footer a { color:#f07d00; }
+    .resume-btn { position:fixed; bottom:20px; right:20px; background:#f07d00; color:#fff; padding:1rem 1.5rem; border-radius:50px; font-weight:600; box-shadow:0 4px 12px rgba(0,0,0,0.2); transition:0.3s; }
+    .resume-btn:hover { background:#d35c00; transform:translateY(-3px); }
+
     /* Responsive */
-    @media (max-width: 1024px) {
-      .container { padding: 0 15px; }
-      .hero { padding: 80px 0; }
-      .section { padding: 60px 0; }
-      .grid { grid-template-columns: 1fr; }
-      .nav-links a { margin: 0 0.5rem; font-size: 0.9rem; }
-    }
-    @media (max-width: 768px) {
-      .hero h1 { font-size: clamp(2rem, 4vw, 3rem); }
-      .section h2 { font-size: clamp(1.5rem, 3vw, 2rem); }
-      .nav-links { display: flex; flex-wrap: wrap; justify-content: center; }
-      .social { flex-direction: column; align-items: center; }
-      .resume-btn { padding: 0.8rem 1.2rem; font-size: 0.9rem; }
-    }
-    @media (max-width: 480px) {
-      .hero { padding: 60px 0; }
-      .hero img.avatar { width: 120px; height: 120px; }
-      .section { padding: 40px 0; }
-      .card { padding: 1.5rem; }
-      .card h3 { font-size: 1.2rem; }
-      .skills .skill-icon { font-size: 2rem; }
-      .resume-btn { bottom: 15px; right: 15px; font-size: 0.8rem; }
-    }
-    
-    /* Smooth Scroll */
-    html { scroll-behavior: smooth; }
+    @media(max-width:768px){ .grid{grid-template-columns:1fr;} .hero h1{font-size:2.5rem;} .section h2{font-size:1.8rem;} .skills .skill-icon{font-size:2rem;} }
   </style>
 </head>
 <body>
+
   <!-- Navigation -->
   <nav>
     <div class="container">
@@ -354,179 +98,150 @@
   </nav>
 
   <!-- Hero -->
-  <section class="hero" id="hero">
-    <div class="container">
-      <img src="https://avatars.githubusercontent.com/u/95337825?v=4" alt="Mahesh Shukla Avatar" class="avatar">
-      <h1>🛡️ Mahesh Shukla — Cloud Security & Automation Architect</h1>
-      <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&size=25&center=true&vCenter=true&width=900&lines=AWS+Cloud+Security+Expert;Terraform+Security+Engineer;Python+Automation+Specialist;Founder+of+CloudGuardAudit;Helping+SMBs+Secure+the+Cloud" alt="Typing SVG" class="typing-svg">
-    </div>
+  <section class="hero">
+    <img src="https://avatars.githubusercontent.com/u/95337825?v=4" alt="Avatar" class="avatar">
+    <h1>🛡️ Mahesh Shukla — Cloud Security & Automation Architect</h1>
+    <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&size=25&center=true&vCenter=true&width=900&lines=AWS+Cloud+Security+Expert;Terraform+Security+Engineer;Python+Automation+Specialist;Creator+of+IAM+X-Ray+Open-Source;Helping+SMBs+Secure+the+Cloud" alt="Typing SVG" class="typing-svg">
   </section>
 
   <!-- About -->
   <section class="section" id="about">
-    <div class="container">
-      <h2>🚀 About Me</h2>
-      <div class="grid">
-        <div class="card">
-          <p>I’m <strong>Mahesh Shukla</strong>, a <strong>Cloud Security Specialist</strong> & <strong>AWS IAM Automation Expert</strong> dedicated to making <strong>enterprise-grade cloud security accessible to SMBs</strong>.</p>
-          <p>I design <strong>secure, automated, and scalable solutions</strong> by combining:</p>
-          <ul>
-            <li>☁ <strong>AWS Security Mastery</strong> → IAM, VPC, S3, CloudTrail, KMS, EC2</li>
-            <li>⚙ <strong>Infrastructure as Code</strong> → Terraform, CloudFormation</li>
-            <li>🐍 <strong>Python Automation</strong> → boto3, AWS CLI, security tooling</li>
-          </ul>
-          <blockquote>“Secure by Design, Automated by Default.”</blockquote>
-        </div>
-        <div class="card">
-          <img src="https://tryhackme-badges.s3.amazonaws.com/BlkICE.png" alt="TryHackMe Badge" style="width:100%; border-radius:8px;">
-        </div>
+    <h2>🚀 About Me</h2>
+    <div class="grid">
+      <div class="card">
+        <p>Hi! I’m <strong>Mahesh Shukla</strong>, a <strong>Cloud Security Specialist</strong> & <strong>AWS IAM Automation Expert</strong> focused on making enterprise-grade security accessible to SMBs.</p>
+        <ul>
+          <li>☁ AWS Security → IAM, VPC, S3, CloudTrail, KMS, EC2</li>
+          <li>⚙ Infrastructure as Code → Terraform, CloudFormation</li>
+          <li>🐍 Python Automation → boto3, AWS CLI, security tooling</li>
+        </ul>
+        <blockquote>“Secure by Design, Automated by Default.”</blockquote>
+      </div>
+      <div class="card">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/BlkICE.png" alt="TryHackMe Badge" style="width:100%; border-radius:8px;">
       </div>
     </div>
   </section>
 
   <!-- Certifications -->
   <section class="section" id="certifications">
-    <div class="container">
-      <h2>🎯 Certifications</h2>
-      <div class="grid">
-        <div class="card">
-          <h3>🛡 AWS Certified Solutions Architect — Associate</h3>
-          <p><em>In Progress</em></p>
-        </div>
+    <h2>🎯 Certifications</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>🛡 AWS Certified Solutions Architect — Associate</h3>
+        <p><em>In Progress</em></p>
       </div>
     </div>
   </section>
 
   <!-- Achievements -->
   <section class="section" id="achievements">
-    <div class="container">
-      <h2>🏆 Key Achievements</h2>
-      <div class="achievements">
-        <div class="achievement">🚀 Built AWS IAM Management GUI → zero-CLI, intuitive security tool</div>
-        <div class="achievement">🚀 Built AWS VPC Bastion + Private EC2 → secure VPC design with Bastion Host</div>
-        <div class="achievement">⚡ Typing speed: 170+ WPM → faster than your SIEM logs scroll</div>
-        <div class="achievement">🎖 Top TryHackMe CTF participant — global upper percentile</div>
-      </div>
+    <h2>🏆 Key Achievements</h2>
+    <div class="achievements">
+      <div class="achievement">🚀 Built AWS IAM X-Ray → Open-source IAM Auditor</div>
+      <div class="achievement">🚀 Built AWS VPC Bastion + Private EC2 → Secure VPC setup</div>
+      <div class="achievement">⚡ Typing speed: 170+ WPM → faster than SIEM logs scroll</div>
+      <div class="achievement">🎖 Top TryHackMe CTF participant — global upper percentile</div>
     </div>
   </section>
 
   <!-- Projects -->
   <section class="section" id="projects">
-    <div class="container">
-      <h2>🔥 Featured Projects</h2>
-      <div class="grid">
-        <div class="card">
-          <h3>AWS VPC Bastion + Private EC2</h3>
-          <p>Hands-on project demonstrating secure VPC design with Bastion Host, private EC2, subnet isolation, and SSH access flow.</p>
-          <a href="https://github.com/MaheshShukla1/aws-vpc-bastion-private-ec2-architecture" class="btn">View Project</a>
-        </div>
-        <div class="card">
-          <h3>IAM X-Ray: AWS IAM Visualizer</h3>
-          <p>An open-source Python tool for visualizing, analyzing, and securing AWS IAM configurations. Built with Streamlit for an interactive UI, it fetches IAM data, builds relationship graphs, detects risks, and provides actionable insights—all in a secure, encrypted manner.</p>
-          <a href="https://github.com/MaheshShukla1/iam-x-ray" class="btn">View Project</a>
-        </div>
+    <h2>🔥 Featured Projects</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>AWS VPC Bastion + Private EC2</h3>
+        <p>Hands-on project demonstrating secure VPC design with Bastion Host, private EC2, subnet isolation, and SSH access flow.</p>
+        <a href="https://github.com/MaheshShukla1/aws-vpc-bastion-private-ec2-architecture" class="btn">View Project</a>
+      </div>
+      <div class="card">
+        <h3>IAM X-Ray: AWS IAM Visualizer</h3>
+        <p>An open-source Python tool for visualizing, analyzing, and securing AWS IAM configurations with Streamlit.</p>
+        <a href="https://github.com/MaheshShukla1/iam-x-ray" class="btn">View Project</a>
       </div>
     </div>
   </section>
 
   <!-- Skills -->
   <section class="section" id="skills">
-    <div class="container">
-      <h2>🛠 Tech Arsenal</h2>
-      <div class="skills">
-        <i class="fab fa-aws skill-icon" title="AWS"></i>
-        <i class="fas fa-cubes skill-icon" title="Terraform"></i>
-        <i class="fab fa-python skill-icon" title="Python"></i>
-        <i class="fas fa-terminal skill-icon" title="Bash"></i>
-        <i class="fas fa-power-off skill-icon" title="PowerShell"></i>
-        <i class="fab fa-docker skill-icon" title="Docker"></i>
-        <i class="fab fa-linux skill-icon" title="Linux"></i>
-        <i class="fab fa-git-alt skill-icon" title="Git"></i>
-      </div>
+    <h2>🛠 Tech Arsenal</h2>
+    <div class="skills">
+      <i class="fab fa-aws skill-icon" title="AWS"></i>
+      <i class="fas fa-cubes skill-icon" title="Terraform"></i>
+      <i class="fab fa-python skill-icon" title="Python"></i>
+      <i class="fas fa-terminal skill-icon" title="Bash"></i>
+      <i class="fas fa-power-off skill-icon" title="PowerShell"></i>
+      <i class="fab fa-docker skill-icon" title="Docker"></i>
+      <i class="fab fa-linux skill-icon" title="Linux"></i>
+      <i class="fab fa-git-alt skill-icon" title="Git"></i>
     </div>
   </section>
 
   <!-- Analytics -->
   <section class="section" id="analytics">
-    <div class="container">
-      <h2>📊 GitHub Analytics</h2>
-      <div class="stats">
-        <div class="stat">
-          <img src="https://github-readme-stats.vercel.app/api?username=MaheshShukla1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
-        </div>
-        <div class="stat">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshShukla1&theme=radical&hide_border=true&layout=compact" alt="Top Languages">
-        </div>
+    <h2>📊 GitHub Analytics</h2>
+    <div class="stats">
+      <div class="stat">
+        <img src="https://github-readme-stats.vercel.app/api?username=MaheshShukla1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
       </div>
-      <div style="text-align:center; margin-top:2rem;">
-        <img src="https://komarev.com/ghpvc/?username=MaheshShukla1&style=flat-square&color=blue" alt="Profile Views">
+      <div class="stat">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshShukla1&theme=radical&hide_border=true&layout=compact" alt="Top Languages">
       </div>
+    </div>
+    <div style="text-align:center; margin-top:2rem;">
+      <img src="https://komarev.com/ghpvc/?username=MaheshShukla1&style=flat-square&color=blue" alt="Profile Views">
     </div>
   </section>
 
   <!-- Connect -->
   <section class="section" id="connect">
-    <div class="container">
-      <h2>🌐 Connect with Me</h2>
-      <div class="social">
-        <a href="https://www.linkedin.com/in/maheshshukla01/"><i class="fab fa-linkedin"></i> LinkedIn</a>
-        <a href="https://tryhackme.com/p/JailBreaker"><i class="fas fa-shield-alt"></i> TryHackMe</a>
-        <a href="https://www.youtube.com/channel/UCa_oZ3SJu1z24ZRkOpLbc7Q"><i class="fab fa-youtube"></i> YouTube</a>
-        <a href="https://medium.com/@Mahesh_Shukla"><i class="fab fa-medium"></i> Medium</a>
-        <a href="https://x.com/Maheshshukla011"><i class="fab fa-twitter"></i> Twitter</a>
-      </div>
+    <h2>🌐 Connect with Me</h2>
+    <div class="social">
+      <a href="https://www.linkedin.com/in/maheshshukla01/"><i class="fab fa-linkedin"></i> LinkedIn</a>
+      <a href="https://tryhackme.com/p/JailBreaker"><i class="fas fa-shield-alt"></i> TryHackMe</a>
+      <a href="https://www.youtube.com/channel/UCa_oZ3SJu1z24ZRkOpLbc7Q"><i class="fab fa-youtube"></i> YouTube</a>
+      <a href="https://medium.com/@Mahesh_Shukla"><i class="fab fa-medium"></i> Medium</a>
+      <a href="https://x.com/Maheshshukla011"><i class="fab fa-twitter"></i> X</a>
     </div>
   </section>
 
   <!-- Fun Fact -->
   <section class="section">
-    <div class="container">
-      <div class="fun-fact">
-        <p><strong>⚡ Fun Fact</strong><br>"I type faster than your firewall logs scroll." — <em>170+ WPM</em></p>
-      </div>
+    <div class="fun-fact">
+      ⚡ "I type faster than your firewall logs scroll." — 170+ WPM
     </div>
   </section>
 
   <!-- Footer -->
   <footer class="footer">
-    <div class="container">
-      <p>📌 <strong>Open for collaborations, building cloud-native security tools, and speaking engagements.</strong></p>
-      <p>&copy; 2025 Mahesh Shukla | Built with ❤️ for the dev community</p>
-    </div>
+    <p>📌 Open for collaborations, building cloud-native security tools, and speaking engagements.</p>
+    <p>&copy; 2025 Mahesh Shukla | Built with ❤️ for the dev community</p>
   </footer>
 
-  <!-- Resume Button -->
-  <a href="https://maheshshukla1.github.io/MaheshShukla1/resume.pdf" class="resume-btn" download><i class="fas fa-download"></i> Download Resume</a>
+  <!-- Resume -->
+  <a href="https://maheshshukla1.github.io/MaheshShukla1/resume.pdf" class="resume-btn" download><i class="fas fa-download"></i> Resume</a>
 
+  <!-- JS: Smooth scroll & nav active -->
   <script>
-    // Smooth scroll for anchor links
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener('click', function (e) {
+    document.querySelectorAll('a[href^="#"]').forEach(a=>{
+      a.addEventListener('click', e=>{
         e.preventDefault();
-        document.querySelector(this.getAttribute('href')).scrollIntoView({ behavior: 'smooth' });
-        document.querySelectorAll('.nav-links a').forEach(link => link.classList.remove('active'));
-        this.classList.add('active');
+        document.querySelector(a.getAttribute('href')).scrollIntoView({behavior:'smooth'});
+        document.querySelectorAll('.nav-links a').forEach(link=>link.classList.remove('active'));
+        a.classList.add('active');
       });
     });
-
-    // Sticky nav highlight on scroll
-    window.addEventListener('scroll', () => {
-      const sections = document.querySelectorAll('section[id]');
-      const navLinks = document.querySelectorAll('.nav-links a');
-      let current = '';
-      sections.forEach(section => {
-        const sectionTop = section.offsetTop - 100;
-        if (pageYOffset >= sectionTop) {
-          current = section.getAttribute('id');
-        }
+    window.addEventListener('scroll', ()=>{
+      const sections=document.querySelectorAll('section[id]');
+      const navLinks=document.querySelectorAll('.nav-links a');
+      let current='';
+      sections.forEach(sec=>{
+        const top=sec.offsetTop-100;
+        if(pageYOffset>=top) current=sec.getAttribute('id');
       });
-      navLinks.forEach(link => {
-        link.classList.remove('active');
-        if (link.getAttribute('href') === `#${current}`) {
-          link.classList.add('active');
-        }
-      });
+      navLinks.forEach(link=>{ link.classList.remove('active'); if(link.getAttribute('href')==`#${current}`) link.classList.add('active'); });
     });
   </script>
+
 </body>
 </html>
