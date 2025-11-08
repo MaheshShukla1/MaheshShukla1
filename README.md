@@ -150,6 +150,9 @@ Hands-on with AWS, Terraform, and Python for end-to-end cloud lifecycle manageme
 
 [![Monkeytype 170+ WPM](https://img.shields.io/badge/Typing-170%2B%20WPM-blue?style=for-the-badge&logo=keyboard)](https://monkeytype.com/profile/OverClocked1)
 
+## 📈 **Visitors**
+![Profile Views](https://komarev.com/ghpvc/?username=MaheshShukla1&style=flat-square&color=blue)
+
 ---
 
 📌 *Open for collaborations, cloud-native security tools development, and internships.*
