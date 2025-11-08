@@ -3,7 +3,7 @@ Mahesh Shukla | AWS Cloud Security Specialist | Terraform Security Engineer | IA
 Empowering SMBs to build secure, automated, and cost-optimized cloud infrastructures.
 -->
 
-<h1 align="center">🛡️ Mahesh Shukla — Cloud Security & Automation Architect</h1>
+<h1 align="center">🛡️ Mahesh Shukla — AWS Cloud & DevSecOps Engineer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&size=25&center=true&vCenter=true&width=900&lines=AWS+Cloud+Security+Architect;Terraform+Security+Engineer;Python+Automation+Specialist;Creator+of+IAM+X-Ray+Open-Source;Empowering+SMBs+to+Secure+the+Cloud" alt="Typing SVG">
@@ -14,8 +14,10 @@ Empowering SMBs to build secure, automated, and cost-optimized cloud infrastruct
   <img src="https://img.shields.io/badge/Terraform-IaC-blueviolet?logo=terraform">
   <img src="https://img.shields.io/badge/Python-Automation-yellow?logo=python">
   <img src="https://img.shields.io/badge/Cloud_Security-Specialist-red?logo=securityscorecard">
+  <img src="https://img.shields.io/badge/CI/CD-Pipelines-lightgrey?logo=githubactions">
   <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=flat-square">
 </p>
+
 
 ---
 
