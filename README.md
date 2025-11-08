@@ -57,7 +57,7 @@ Hands-on with AWS, Terraform, and Python for end-to-end cloud lifecycle manageme
    - Configured CloudWatch alarms, dashboards, and SNS alerts for proactive incident response.  
    - Implemented IAM least-privilege policies, encryption, and security group optimizations.  
    - Achieved ~30% cost optimization and reduced provisioning time by 90%.  
-   - 🔗 Repo: [aws-devsecops-infrastructure-automation](https://github.com/MaheshShukla1/aws-devsecops-infrastructure-automation)
+   - 🔗 Repo: [aws-devsecops-infrastructure-automation](https://github.com/MaheshShukla1/aws-devsecops-infra)
 
 2. **IAM X-Ray — AWS IAM Visualizer & Auditor** — *Python Developer* (Jul 2025 – Oct 2025)  
    - Automated IAM audit tool using Python (boto3) that identifies over-privileged users and risky policies.  
